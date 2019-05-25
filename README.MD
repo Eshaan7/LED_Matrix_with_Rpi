@@ -6,5 +6,5 @@ This repo just contains some python scripts I wrote for my RPi + matrix. :)
 
 ## DEMO 
 
-![LED MATRIX Heart | image](https://i.imgur.com/a/YdoV9UF) <br>
-![LED MATRIX what the heck is a chungus | gif](https://i.imgur.com/VzPhvkO.mp4)
+<img align="left" src="https://i.imgur.com/dTrC5ht.jpg" height="500px">
+<img align="right" src="https://media.giphy.com/media/dVhn5U3rDSanZkiYFP/giphy.gif" width="500px" height="500px">
